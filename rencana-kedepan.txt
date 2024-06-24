@@ -1,9 +1,5 @@
 - saya akan belajar sampai expert di java
 - saya akan lanjut ke javascript
-^ react
-^ vue
-- belajar laravel
-- dan saya akan belajar ulang python beserta oopnya
 - saya akan menjadi softwere engineer
 - di episode git branck ini saya belajar mengabung kan project
 - dan dinamakan marge kita bisa lihat di insight to network
